@@ -1,0 +1,4 @@
+val1 = float(input("please input first number:"\n)
+val2 = float(input(pleaseinput second number:\n)
+sum = val1+val2 
+print ('Sum of two numbers: , sum)
